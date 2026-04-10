@@ -28,3 +28,4 @@ outputs/
 sql/
   00_create_raw_cfpb_credit_card.sql
   01_load_raw_cfpb_credit_card.sql
+  02_base_view.sql
