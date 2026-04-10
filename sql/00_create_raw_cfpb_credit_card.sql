@@ -1,24 +1,26 @@
 /*
-PURPOSE
-Create the raw staging table for the CFPB credit card complaint export.
+File
+  - sql/00_create_raw_cfpb_credit_card.sql
 
-SIGNIFICANCE
-This table preserves the source file as closely as possible before any cleaning,
-typing, renaming, or filtering. Keeping a raw table makes the project easier to
-audit and rerun.
+Purpose
+  - Create the raw staging table for the CFPB credit card complaint export.
 
-DEPENDENCIES
-- Database: cfpb_nlp
-- Source file headers from:
-  data/raw/cfpb_consumer_complaints_credit_card.csv
+Significance
+  - Preserves the source file structure before any cleaning, typing, renaming or filtering.
+  - Creates a reproducible raw layer that can be reloaded from the original CSV.
 
-OUTPUT
-- Table created: raw_cfpb_credit_card
+Dependencies
+  - Requires:
+    - data/raw/cfpb_consumer_complaints_credit_card.csv
 
-NOTES
+Output
+- Creates:
+  - raw_cfpb_credit_card
+
+Notes
 - Column names intentionally match the CSV headers exactly.
 - All columns are loaded as text in the raw layer to reduce import friction.
-- Data typing and column standardization will happen later in a base view.
+- Data typing, renaming, and filtering happen in downstream SQL files.
 */
 
 DROP TABLE IF EXISTS raw_cfpb_credit_card;

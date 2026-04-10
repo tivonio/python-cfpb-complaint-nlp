@@ -1,21 +1,27 @@
 /*
-PURPOSE
-Load the CFPB credit card complaint CSV into the raw staging table.
+File
+  - sql/01_load_raw_cfpb_credit_card.sql
 
-SIGNIFICANCE
-This step brings the source data into Postgres in a reproducible way using the
-project's mounted raw data folder. It creates the database starting point for
-all later checks, views, and Python extracts.
+Purpose
+  - Load the CFPB credit card complaint CSV into the raw staging table.
 
-DEPENDENCIES
-- Table must already exist: raw_cfpb_credit_card
-- Docker bind mount must expose the raw file at:
-  /data/raw/cfpb_consumer_complaints_credit_card.csv
+Significance
+  - Brings the source data into Postgres in a reproducible way using the
+    project's mounted raw data folder.
+  - Establishes the starting point for all later checks, views, and Python extracts.
 
-OUTPUT
-- Rows loaded into: raw_cfpb_credit_card
+Dependencies
+  - Requires:
+    - raw_cfpb_credit_card
+      (00_create_raw_cfpb_credit_card.sql)
+    - /data/raw/cfpb_consumer_complaints_credit_card.csv
+      (docker-compose.yml, data/raw/cfpb_consumer_complaints_credit_card.csv)
 
-NOTES
+Output
+- Loads:
+  - raw_cfpb_credit_card
+
+Notes
 - TRUNCATE is used so the load can be rerun cleanly.
 - The file path is container-relative, not a local Windows path.
 - Expected row count after load: 89,749
