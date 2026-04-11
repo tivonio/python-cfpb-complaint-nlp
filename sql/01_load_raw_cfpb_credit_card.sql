@@ -24,7 +24,7 @@ Output
 Notes
 - TRUNCATE is used so the load can be rerun cleanly.
 - The file path is container-relative, not a local Windows path.
-- Expected row count after load: 89,749
+- Expected row count after load: 76,880
 */
 
 TRUNCATE TABLE raw_cfpb_credit_card;
