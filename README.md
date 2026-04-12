@@ -33,3 +33,5 @@ sql/
   00_create_raw_cfpb_credit_card.sql
   01_load_raw_cfpb_credit_card.sql
   02_base_view.sql
+  03_data_checks.sql
+  04_extract_for_python.sql
