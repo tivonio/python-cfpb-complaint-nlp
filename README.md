@@ -8,7 +8,7 @@ This project uses public Consumer Financial Protection Bureau (CFPB) credit card
 
 ## Current status
 
-Early project setup. Project framing is defined. The SQL staging layer is in progress.
+Early project setup. Project framing is defined. The SQL staging layer is complete. Python notebook setup is in progress.
 
 ## Current contents
 
