@@ -51,7 +51,9 @@ SELECT
     NULLIF(TRIM("Timely response?"), '') AS timely_response,
     NULLIF(TRIM("Consumer disputed?"), '') AS consumer_disputed
 FROM raw_cfpb_credit_card
-WHERE NULLIF(TRIM("Consumer complaint narrative"), '') IS NOT NULL;
+WHERE NULLIF(TRIM("Consumer complaint narrative"), '') IS NOT NULL
+    AND NULLIF(TRIM("Complaint ID"), '') IS NOT NULL
+    AND NULLIF(TRIM("Date received"), '') IS NOT NULL;
 
 SELECT COUNT(*) AS row_count
 FROM vw_cfpb_credit_card_base;
