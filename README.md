@@ -2,9 +2,13 @@
 
 Work-in-progress NLP project using public CFPB Consumer Complaint Data.
 
-## Status
+## Project brief
 
-Early project setup. The analytical framing, working question, and final project scope are still being refined.
+This project uses public Consumer Financial Protection Bureau (CFPB) credit card complaint narratives from 2024 through 2025 to identify recurring consumer pain points, measure how common they are, and track how theme prevalance changes by quarter. The goal is to use a public complaint source as an external signal for competitive monitoring. The final output should surface the main complaint themes, show how themes are becoming more or less prominent, and highlight the ones that may matter most for competitor weakness, persistent customer friction, emerging risk, or unmet customer needs that could create market opportunity.
+
+## Current status
+
+Early project setup. Project framing is defined. The SQL staging layer is in progress.
 
 ## Current contents
 
