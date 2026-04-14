@@ -24,6 +24,7 @@ data/
   processed/
 
 notebooks/
+  00_setup.ipynb
 
 outputs/
   figures/
