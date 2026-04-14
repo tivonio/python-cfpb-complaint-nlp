@@ -4,11 +4,15 @@
 ```gitignore
 # Python
 __pycache__/
+*.py[cod]
 .ipynb_checkpoints/
 
 # Environment
 .venv/
 env/
+
+# Jupyter
+*.ipynb_checkpoints
 
 # Data
 data/raw/
