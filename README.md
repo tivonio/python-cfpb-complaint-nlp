@@ -25,6 +25,7 @@ data/
 
 notebooks/
   00_setup.ipynb
+  01_text_prep.ipynb
 
 outputs/
   figures/
