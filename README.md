@@ -26,10 +26,15 @@ data/
 notebooks/
   00_setup.ipynb
   01_text_prep.ipynb
+  02_theme_analysis.ipynb
 
 outputs/
   figures/
   tables/
+    final_theme_summary.csv
+    first_last_compare.csv
+    quarterly_group_summary.csv
+    theme_summary
 
 sql/
   00_create_raw_cfpb_credit_card.sql
