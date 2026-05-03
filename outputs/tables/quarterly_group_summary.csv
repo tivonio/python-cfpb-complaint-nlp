@@ -1,0 +1,49 @@
+quarter_start,quarter_label,final_theme_group,complaint_count,quarter_total_complaints,theme_share
+2024-01-01,2024 Q1,Card opening and account change issues,1914,7638,0.25058915946582877
+2024-01-01,2024 Q1,Credit reporting accuracy and FCRA disputes,871,7638,0.11403508771929824
+2024-01-01,2024 Q1,Credit reporting and payment remark disputes,407,7638,0.05328620057606703
+2024-01-01,2024 Q1,Issuer-specific servicing and dispute issues,1120,7638,0.14663524482848914
+2024-01-01,2024 Q1,Late fee and payment posting disputes,1838,7638,0.24063891070960985
+2024-01-01,2024 Q1,Merchant charge disputes and refund resolution,1488,7638,0.194815396700707
+2024-04-01,2024 Q2,Card opening and account change issues,1946,7779,0.2501606890345803
+2024-04-01,2024 Q2,Credit reporting accuracy and FCRA disputes,874,7779,0.11235377297853194
+2024-04-01,2024 Q2,Credit reporting and payment remark disputes,671,7779,0.08625787376269443
+2024-04-01,2024 Q2,Issuer-specific servicing and dispute issues,1055,7779,0.13562154518575653
+2024-04-01,2024 Q2,Late fee and payment posting disputes,1836,7779,0.23602005399151563
+2024-04-01,2024 Q2,Merchant charge disputes and refund resolution,1397,7779,0.1795860650469212
+2024-07-01,2024 Q3,Card opening and account change issues,2043,7581,0.2694895132568263
+2024-07-01,2024 Q3,Credit reporting accuracy and FCRA disputes,1020,7581,0.13454689354966362
+2024-07-01,2024 Q3,Credit reporting and payment remark disputes,86,7581,0.011344149848304973
+2024-07-01,2024 Q3,Issuer-specific servicing and dispute issues,1103,7581,0.1454953172404696
+2024-07-01,2024 Q3,Late fee and payment posting disputes,1917,7581,0.25286901464186784
+2024-07-01,2024 Q3,Merchant charge disputes and refund resolution,1412,7581,0.1862551114628677
+2024-10-01,2024 Q4,Card opening and account change issues,2023,7727,0.2618092403261292
+2024-10-01,2024 Q4,Credit reporting accuracy and FCRA disputes,959,7727,0.12411026271515466
+2024-10-01,2024 Q4,Credit reporting and payment remark disputes,92,7727,0.011906302575385013
+2024-10-01,2024 Q4,Issuer-specific servicing and dispute issues,1144,7727,0.14805228419826583
+2024-10-01,2024 Q4,Late fee and payment posting disputes,1907,7727,0.24679694577455674
+2024-10-01,2024 Q4,Merchant charge disputes and refund resolution,1602,7727,0.2073249644105086
+2025-01-01,2025 Q1,Card opening and account change issues,2324,9010,0.2579356270810211
+2025-01-01,2025 Q1,Credit reporting accuracy and FCRA disputes,1344,9010,0.14916759156492787
+2025-01-01,2025 Q1,Credit reporting and payment remark disputes,96,9010,0.010654827968923418
+2025-01-01,2025 Q1,Issuer-specific servicing and dispute issues,1281,9010,0.14217536071032186
+2025-01-01,2025 Q1,Late fee and payment posting disputes,2187,9010,0.24273029966703663
+2025-01-01,2025 Q1,Merchant charge disputes and refund resolution,1778,9010,0.19733629300776914
+2025-04-01,2025 Q2,Card opening and account change issues,2341,9262,0.25275318505722305
+2025-04-01,2025 Q2,Credit reporting accuracy and FCRA disputes,1336,9262,0.1442453033901965
+2025-04-01,2025 Q2,Credit reporting and payment remark disputes,41,9262,0.004426689699848845
+2025-04-01,2025 Q2,Issuer-specific servicing and dispute issues,1374,9262,0.14834808896566617
+2025-04-01,2025 Q2,Late fee and payment posting disputes,2196,9262,0.2370978190455625
+2025-04-01,2025 Q2,Merchant charge disputes and refund resolution,1974,9262,0.21312891384150293
+2025-07-01,2025 Q3,Card opening and account change issues,2305,10407,0.22148553857980205
+2025-07-01,2025 Q3,Credit reporting accuracy and FCRA disputes,1655,10407,0.1590275775920054
+2025-07-01,2025 Q3,Credit reporting and payment remark disputes,305,10407,0.029307197078889208
+2025-07-01,2025 Q3,Issuer-specific servicing and dispute issues,1448,10407,0.1391371192466609
+2025-07-01,2025 Q3,Late fee and payment posting disputes,2293,10407,0.22033246853079658
+2025-07-01,2025 Q3,Merchant charge disputes and refund resolution,2401,10407,0.23071009897184588
+2025-10-01,2025 Q4,Card opening and account change issues,1906,9502,0.2005893496106083
+2025-10-01,2025 Q4,Credit reporting accuracy and FCRA disputes,1485,9502,0.156282887813092
+2025-10-01,2025 Q4,Credit reporting and payment remark disputes,276,9502,0.029046516522837296
+2025-10-01,2025 Q4,Issuer-specific servicing and dispute issues,1364,9502,0.14354872658387707
+2025-10-01,2025 Q4,Late fee and payment posting disputes,2096,9502,0.22058513997053253
+2025-10-01,2025 Q4,Merchant charge disputes and refund resolution,2375,9502,0.24994737949905282
