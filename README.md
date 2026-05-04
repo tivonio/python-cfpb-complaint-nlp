@@ -8,7 +8,7 @@ This project uses public Consumer Financial Protection Bureau (CFPB) credit card
 
 ## Current status
 
-Early project setup. Project framing is defined. The SQL staging layer is complete. Python notebook setup is in progress.
+Core project setup and first-pass theme analysis are complete. The workflow now includes SQL staging, Python setup, text preparation, exact duplicate handling, manual theme labeling, broader reporting groups, and quarterly trend summaries. Key findings and write-up are in progress.
 
 ## Current contents
 
