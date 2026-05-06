@@ -30,6 +30,8 @@ notebooks/
 
 outputs/
   figures/
+    final_theme_group_quarterly_trend.png
+    final_theme_group_share_bar.png
   tables/
     final_theme_summary.csv
     first_last_compare.csv
