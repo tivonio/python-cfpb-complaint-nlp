@@ -2,7 +2,7 @@
 
 This repo contains the complete SQL + Python walkthrough for the blog post published on tivon.io:
 
-**Topic Modeling CFPB Credit Card Complaints with Python**
+[**"Topic Modeling CFPB Credit Card Complaints with Python"**](https://tivon.io/2026/05/10/topic-modeling-cfpb-credit-card-complaints-with-python/)
 
 It uses public CFPB credit card complaint narratives to demonstrate a common external-monitoring problem:
 
